@@ -8,4 +8,4 @@ The pinout of the used ESP12-E module is in the esp12e-pinout.png. Please note t
 The code is in the init.lua file. It requires NodeMCU firmware v1.0 or higher with modules: adc, gpio, file, net,node,timer,wifi 
 
 
-All copyright of the included materials belongs to the original authors. I credit only for the "Rapid development of a connected device.pdf" presentation file, schematics and the code.
+All copyright of the included materials belongs to the original authors. 
